@@ -189,3 +189,10 @@ body {
         background-color: #1da1f2;
         border-radius: 50px;
     }
+
+@media (max-width: 999px) {
+        .wrapper {
+            position: relative;
+            width: 374px;
+        }
+    }
