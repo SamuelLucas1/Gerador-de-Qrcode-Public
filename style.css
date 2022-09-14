@@ -193,6 +193,8 @@ body {
 @media (max-width: 999px) {
         .wrapper {
             position: relative;
-            width: 374px;
+            top: 8vh;
+            right: 0;
+            width: 60vh;
         }
     }
