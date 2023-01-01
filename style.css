@@ -162,7 +162,7 @@ body {
         transform: translate(60px);
     }
 
-    .box.icon{
+    .box .icon{
         position: absolute;
         width: 50px;
         height: 50px;
@@ -178,19 +178,22 @@ body {
     .instagram{
         background-color: #c32aa3;
         border-radius: 50px;
+        font-size: 15px;
     }
 
     .linktree{
         background-color: #25d366;
         border-radius: 50px;
+        font-size: 15px;
     }
 
     .twitter{
         background-color: #1da1f2;
         border-radius: 50px;
+        font-size: 15px;
     }
 
-@media (max-width: 999px) {
+    @media (max-width: 999px) {
         .wrapper {
             position: relative;
             top: 8vh;
